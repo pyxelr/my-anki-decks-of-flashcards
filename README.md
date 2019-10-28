@@ -9,9 +9,10 @@ List of my cards available on the official AnkiWeb repository:
 - French
 	- [French accents](https://ankiweb.net/shared/info/19998762) <--- 5 French accents with written pronunciation and example words
 	- [French alphabet pronunciation](https://ankiweb.net/shared/info/2020825047)
+	- [French months + seasons](https://ankiweb.net/shared/info/483187044)
 - [Google Search Operators](https://ankiweb.net/shared/info/1174604876) <--- become a Google Power User
 - [Python - Programming Idioms](https://ankiweb.net/shared/info/2086567642) <--- memorise several Python code snippets
-- Smart Decisions cards <--- [SoftServe's cards](https://softserveinc.github.io/SmartDecisions/) turned into Anki flashcards
+- Smart Decisions cards <--- [SoftServe's cards](https://smartdecisionsgame.com/) turned into Anki flashcards
 	- [Big Data](https://ankiweb.net/shared/info/2084344509)
 	- [IoT](https://ankiweb.net/shared/info/1786296494)
 	- [Machine Learning](https://ankiweb.net/shared/info/2099797890)
