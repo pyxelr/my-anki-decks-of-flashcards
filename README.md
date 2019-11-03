@@ -13,6 +13,7 @@ List of my cards available on the official AnkiWeb repository:
 - [Greek alphabet with Modern Greek pronunciation](https://ankiweb.net/shared/info/1298930846) <--- useful for mathematics
 - [Google Search Operators](https://ankiweb.net/shared/info/1174604876) <--- become a Google Power User
 - [Python - Programming Idioms](https://ankiweb.net/shared/info/2086567642) <--- memorise several Python code snippets
+- [RegEx – ultimate deck](https://ankiweb.net/shared/info/284568815) <--- all the essential RegEx snippets
 - Smart Decisions cards <--- [SoftServe's cards](https://smartdecisionsgame.com/) turned into Anki flashcards
 	- [Big Data](https://ankiweb.net/shared/info/2084344509)
 	- [IoT](https://ankiweb.net/shared/info/1786296494)
