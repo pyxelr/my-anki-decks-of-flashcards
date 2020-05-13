@@ -6,6 +6,7 @@ The cards have been created to apply *active learning* and *spaced repetition* t
 ## Cards shared on AnkiWeb repository
 
 List of my cards available on the official AnkiWeb repository:
+- [100+ Data Scientist Interview Questions and Answers!](https://ankiweb.net/shared/info/11274685) <--- questions scraped from the popular Medium article
 - French
 	- [French accents](https://ankiweb.net/shared/info/19998762) <--- 5 French accents with written pronunciation and example words
 	- [French alphabet pronunciation](https://ankiweb.net/shared/info/2020825047)
