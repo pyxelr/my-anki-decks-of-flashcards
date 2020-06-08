@@ -19,6 +19,7 @@ List of my cards available on the official AnkiWeb repository:
 	- [Big Data](https://ankiweb.net/shared/info/2084344509)
 	- [IoT](https://ankiweb.net/shared/info/1786296494)
 	- [Machine Learning](https://ankiweb.net/shared/info/2099797890)
+- [Visual Studio Code shortcuts](https://ankiweb.net/shared/info/1549461506) <--- Windows shortcuts from the official cheat sheet
 
 ## Installation
 
