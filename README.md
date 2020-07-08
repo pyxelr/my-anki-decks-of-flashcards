@@ -25,6 +25,6 @@ List of my cards available on the official AnkiWeb repository:
 
  1. Create your [AnkiWeb account](https://ankiweb.net/account/register).
  2. Download [Anki desktop application](https://apps.ankiweb.net/#download) (Windows/Mac/Linux).
- 3. Login to your AnkiWeb account inside the desktop application and import the flashcards.
+ 3. Log in to your AnkiWeb account inside the desktop application and import the flashcards.
  4. Start learning!
 	- Optionally, download Anki mobile application ([Android](https://play.google.com/store/apps/details?id=com.ichi2.anki) or [iOS](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387)) and learn on the go. Don't forget to log in to your AnkiWeb account inside the application and sync your repository.
