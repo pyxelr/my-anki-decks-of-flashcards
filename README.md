@@ -1,7 +1,9 @@
 # My Anki Decks of Flashcards
 Decks of Anki flashcards shared publicly from my side.
 
-The cards have been created to apply *active learning* and *spaced repetition* techniques offered through [Anki]([https://apps.ankiweb.net/](https://apps.ankiweb.net/)) to comprehend various topics.
+The cards have been created to apply *active learning* and *spaced repetition* techniques offered through [Anki]([https://apps.ankiweb.net/](https://apps.ankiweb.net/)) to comprehend various topics. 
+
+I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/).
 
 ## Cards shared on AnkiWeb repository
 
