@@ -3,7 +3,7 @@ Decks of Anki flashcards shared publicly from my side.
 
 The cards have been created to apply *active learning* and *spaced repetition* techniques offered through [Anki]([https://apps.ankiweb.net/](https://apps.ankiweb.net/)) to comprehend various topics. 
 
-I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/).
+I've explained my way of using flashcards thoroughly in [this blog post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/), where I also listed all the [cards](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/#ftoc-heading-11) and [plugins](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/#ftoc-heading-12) that I'm currently using.
 
 ## Cards shared on AnkiWeb repository
 
