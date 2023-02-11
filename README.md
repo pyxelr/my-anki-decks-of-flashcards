@@ -8,20 +8,20 @@ I've explained my way of using flashcards thoroughly in [this blog post](https:/
 ## Cards shared on AnkiWeb repository
 
 List of my cards available on the official AnkiWeb repository:
-- [100+ Data Scientist Interview Questions and Answers!](https://ankiweb.net/shared/info/11274685) <--- questions scraped from the popular Medium article
+- [100+ Data Scientist Interview Questions and Answers!](https://ankiweb.net/shared/info/11274685) ← questions scraped from the popular Medium article
 - French
-	- [French accents](https://ankiweb.net/shared/info/19998762) <--- 5 French accents with written pronunciation and example words
+	- [French accents](https://ankiweb.net/shared/info/19998762) ← 5 French accents with written pronunciation and example words
 	- [French alphabet pronunciation](https://ankiweb.net/shared/info/2020825047)
 	- [French months + seasons](https://ankiweb.net/shared/info/483187044)
-- [Greek alphabet with Modern Greek pronunciation](https://ankiweb.net/shared/info/1298930846) <--- useful for mathematics
-- [Google Search Operators](https://ankiweb.net/shared/info/1174604876) <--- become a Google Power User
-- [Python - Programming Idioms](https://ankiweb.net/shared/info/2086567642) <--- memorise several Python code snippets
-- [RegEx – ultimate deck](https://ankiweb.net/shared/info/284568815) <--- all the essential RegEx snippets
-- Smart Decisions cards <--- [SoftServe's cards](https://smartdecisionsgame.com/) turned into Anki flashcards
+- [Greek alphabet with Modern Greek pronunciation](https://ankiweb.net/shared/info/1298930846) ← useful for mathematics
+- [Google Search Operators](https://ankiweb.net/shared/info/1174604876) ← become a Google Power User
+- [Python - Programming Idioms](https://ankiweb.net/shared/info/2086567642) ← memorise several Python code snippets
+- [RegEx – ultimate deck](https://ankiweb.net/shared/info/284568815) ← all the essential RegEx snippets
+- Smart Decisions cards ← [SoftServe's cards](https://smartdecisionsgame.com/) turned into Anki flashcards
 	- [Big Data](https://ankiweb.net/shared/info/2084344509)
 	- [IoT](https://ankiweb.net/shared/info/1786296494)
 	- [Machine Learning](https://ankiweb.net/shared/info/2099797890)
-- [Visual Studio Code shortcuts](https://ankiweb.net/shared/info/1549461506) <--- Windows shortcuts from the official cheat sheet
+- [Visual Studio Code shortcuts](https://ankiweb.net/shared/info/1549461506) ← Windows shortcuts from the official cheat sheet
 
 ## Installation
 
