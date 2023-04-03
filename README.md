@@ -9,6 +9,7 @@ I've explained my way of using flashcards thoroughly in [this blog post](https:/
 
 List of my cards available on the official AnkiWeb repository:
 - [100+ Data Scientist Interview Questions and Answers!](https://ankiweb.net/shared/info/11274685) ← questions scraped from the popular Medium article
+- [CKAD Exercises](https://ankiweb.net/shared/info/2137552993) ← set of exercises to prepare for CKAD (Kubernetes exam)
 - French
 	- [French accents](https://ankiweb.net/shared/info/19998762) ← 5 French accents with written pronunciation and example words
 	- [French alphabet pronunciation](https://ankiweb.net/shared/info/2020825047)
